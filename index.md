@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](another-page).
+I study politicians, non-profit organizations, and television fans to understand how people use social media to organize, discuss, and enact social change. My work has been funded by the National Science Foundation (NSF), the Nayar Prize, Amazon, DiscoverText, and Illinois Institute of Technology. 
 
-There should be whitespace between paragraphs.
+Social media has some very real toxicity challenges, like harassment and cyberbullying, that diminish its utility for collective efforts, so I [work on curbing those](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system) too.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I have a few titles at the [University of Michigan](http://www.umich.edu):
 
-# [](#header-1)Header 1
+* Director, [Resource Center for Minority Data](http://www.icpsr.umich.edu/RCMD), [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
+* Research Associate Professor, [Institute for Social Research](http://home.isr.umich.edu/)
+* Associate Professor, [School of Information](https://www.si.umich.edu/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+From 2010 - 2017, I was a faculty member in the [Humanities Department](https://humansciences.iit.edu/humanities) and directed the [Collective Action and Social Media Lab](http://www.casmlab.org) at [Illinois Institute of Technology](http://www.iit.edu).
 
-## [](#header-2)Header 2
+# Get in Touch
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Email](mailto:libbyh@umich.edu) is best.
 
-### [](#header-3)Header 3
+# Curriculum Vitae
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Hemphill, L., Culotta, A., & Heston, M. (2016). [#Polar Scores: Measuring Partisanship Using Social Media Content](/files/Hemphill_Culotta_Heston_2016_Polar_Scores.pdf). _Journal of Information Technology & Politics_. _13_(4). doi: 10.1080/19331681.2016.1214093* Shapiro, M. and Hemphill, L. (2017). [Politicians and the Policy Agenda: Does Use of Twitter by the U.S. Congress Direct _New York Times_ Content?](/files/Shapiro_Hemphill_2016_Politicians_and_the_Policy Agenda.pdf) _Policy and Internet_ . doi: 10.1002/poi3.120* Hemphill, L., Roback, A. (2014) [Tweet Acts: How Constituents Lobby Congress via Twitter](/files/Hemphill_and_Roback_2014_Tweet_Acts.pdf). _Proceedings of the 2014 ACM Conference on Computer Supported Cooperative Work_, Baltimore, MD. doi: 10.1145/2531602.2531735* Hemphill, L., Otterbacher, J., and Shapiro, M.A. (2013) [What’s Congress Doing on Twitter?](/files/Hemphill_Otterbacher_Shapiro_2013_Whats_Congress_Doing_on_Twitter.pdf) _Proceedings of the 2013 ACM Conference on Computer Supported Cooperative Work_, San Antonio, TX, 887-886. doi: 10.1145/2441776.2441876
