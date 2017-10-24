@@ -16,6 +16,16 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 From 2010 - 2017, I was a faculty member in the [Humanities Department](https://humansciences.iit.edu/humanities) and directed the [Collective Action and Social Media Lab](http://www.casmlab.org) at [Illinois Institute of Technology](http://www.iit.edu).
 
+# Work with Me
+
+I'm recruiting undergrads, graduate students, and post docs to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
+
+Undergrads and master's students should already be enrolled at UM.
+
+PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are due December 1.
+
+Post docs could have administrative homes at either UMSI or the Institute for Social Research.
+
 # Get in Touch
 
 [Email](mailto:libbyh@umich.edu) is best.

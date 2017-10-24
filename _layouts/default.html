@@ -17,13 +17,13 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <h2>Me Elsewhere Online</h2>
+        <a href="https://www.si.umich.edu/people/libby-hemphill">UMSI</a><br>
+        <a href="http://www.icpsr.umich.edu/icpsrweb/content/about/staff/hemphill.html">ICPSR</a><br>
+        <a href="https://scholar.google.com/citations?user=ZhuI0gwAAAAJ">Google Scholar</a><br>
+		<a href="http://github.com/casmlab">Lab GitHub</a><br>
+        <a href="http://github.com/libbyh">Personal GitHub</a><br>
+        <a href="http://www.twitter.com/libbyh">Twitter</a>
 
         {% if site.show_downloads %}
           <ul>
