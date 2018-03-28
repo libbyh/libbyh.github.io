@@ -18,13 +18,11 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 # Work with Me
 
-I'm recruiting undergrads, graduate students, and post docs to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
+I'm recruiting students to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
 
 Undergrads and master's students should already be enrolled at UM.
 
 PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are due December 1.
-
-Post docs could have administrative homes at either UMSI or the Institute for Social Research.
 
 # Get in Touch
 
@@ -34,7 +32,21 @@ Post docs could have administrative homes at either UMSI or the Institute for So
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
-* Hemphill, L., Culotta, A., & Heston, M. (2016). [#Polar Scores: Measuring Partisanship Using Social Media Content](/files/Hemphill_Culotta_Heston_2016_Polar_Scores.pdf). _Journal of Information Technology & Politics_. _13_(4). doi: 10.1080/19331681.2016.1214093
 * Shapiro, M. and Hemphill, L. (2017). [Politicians and the Policy Agenda: Does Use of Twitter by the U.S. Congress Direct _New York Times_ Content?](/files/Shapiro_Hemphill_2016_Politicians_and_the_Policy_Agenda.pdf) _Policy and Internet_ . doi: 10.1002/poi3.120
+* Hemphill, L., Culotta, A., & Heston, M. (2016). [#Polar Scores: Measuring Partisanship Using Social Media Content](/files/Hemphill_Culotta_Heston_2016_Polar_Scores.pdf). _Journal of Information Technology & Politics_. _13_(4). doi: 10.1080/19331681.2016.1214093
 * Hemphill, L., Roback, A. (2014) [Tweet Acts: How Constituents Lobby Congress via Twitter](/files/Hemphill_and_Roback_2014_Tweet_Acts.pdf). _Proceedings of the 2014 ACM Conference on Computer Supported Cooperative Work_, Baltimore, MD. doi: 10.1145/2531602.2531735
 * Hemphill, L., Otterbacher, J., and Shapiro, M.A. (2013) [What’s Congress Doing on Twitter?](/files/Hemphill_Otterbacher_Shapiro_2013_Whats_Congress_Doing_on_Twitter.pdf) _Proceedings of the 2013 ACM Conference on Computer Supported Cooperative Work_, San Antonio, TX, 887-886. doi: 10.1145/2441776.2441876
+
+# Working Papers
+
+Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
+
+* Hemphill, L. and Shapiro, M.A. (2018) [Appealing to the Base or to the Moveable Middle? Incumbents’ Partisan Messaging Before the 2016 U.S. Congressional Elections](http://hdl.handle.net/2027.42/142808)
+* Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ``Bad Actors''](http://hdl.handle.net/2027.42/142392)
+* Hemphill, L., Culotta, A., and Heston, M. (2013) [Framing in Social Media: How the US Congress Uses Twitter Hashtags to Frame Political Issues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2317335)
+
+You can find more at 
+
+* [Deep Blue](https://deepblue.lib.umich.edu/browse?value=Hemphill%2C+Libby&type=author) (Michigan's institutional repository)
+* [arXiv](https://arxiv.org/find/cs/1/au:+Hemphill_L/0/1/0/all/0/1)
+* [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1474958) (though I won't post new papers here now that Elsevier owns it)
