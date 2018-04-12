@@ -32,6 +32,7 @@ PhD students will be admitted through the [School of Information](https://www.si
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
+* Liu, P., Guberman, J., Hemphill, L., & Culotta, A. (2018). [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](files/Liu_et_al_Hostility_forecast_ICWSM.pdf). In *Proceedings of the 12th International Conference on Web and Social Media*. Stanford, CA, USA.
 * Shapiro, M. and Hemphill, L. (2017). [Politicians and the Policy Agenda: Does Use of Twitter by the U.S. Congress Direct _New York Times_ Content?](/files/Shapiro_Hemphill_2016_Politicians_and_the_Policy_Agenda.pdf) _Policy and Internet_ . doi: 10.1002/poi3.120
 * Hemphill, L., Culotta, A., & Heston, M. (2016). [#Polar Scores: Measuring Partisanship Using Social Media Content](/files/Hemphill_Culotta_Heston_2016_Polar_Scores.pdf). _Journal of Information Technology & Politics_. _13_(4). doi: 10.1080/19331681.2016.1214093
 * Hemphill, L., Roback, A. (2014) [Tweet Acts: How Constituents Lobby Congress via Twitter](/files/Hemphill_and_Roback_2014_Tweet_Acts.pdf). _Proceedings of the 2014 ACM Conference on Computer Supported Cooperative Work_, Baltimore, MD. doi: 10.1145/2531602.2531735
