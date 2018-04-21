@@ -49,5 +49,5 @@ Some of my work that's not (yet) published. These are workshop papers, papers un
 You can find more at 
 
 * [Deep Blue](https://deepblue.lib.umich.edu/browse?value=Hemphill%2C+Libby&type=author) (Michigan's institutional repository)
-* [arXiv](https://arxiv.org/find/cs/1/au:+Hemphill_L/0/1/0/all/0/1)
+* [arXiv.org](https://arxiv.org/search/?searchtype=author&query=Libby+Hemphill) (open access e-prints)
 * [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1474958) (though I won't post new papers here now that Elsevier owns it)
