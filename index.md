@@ -18,11 +18,11 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 # Work with Me
 
-I'm recruiting students to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
+I'm recruiting __PhD students__ to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
 
-Undergrads and master's students should already be enrolled at UM.
-
-PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are due December 1.
+PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are __[due December 1](https://www.si.umich.edu/academics/admissions/phd-application-requirements)__. I'm looking for 1-2 PhD students who are interested in
+* digital curation and data management, especially administrative and/or social media data
+* politics and social media, especially in the U.S. and/or the Global South
 
 # Get in Touch
 
@@ -42,6 +42,7 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
+* Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. and Shapiro, M.A. (2018) [Appealing to the Base or to the Moveable Middle? Incumbents’ Partisan Messaging Before the 2016 U.S. Congressional Elections](http://hdl.handle.net/2027.42/142808)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ``Bad Actors''](http://hdl.handle.net/2027.42/142392)
 * Hemphill, L., Culotta, A., and Heston, M. (2013) [Framing in Social Media: How the US Congress Uses Twitter Hashtags to Frame Political Issues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2317335)

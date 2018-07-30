@@ -18,6 +18,7 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        
         <h2>Me Elsewhere Online</h2>
         <a href="https://www.si.umich.edu/people/libby-hemphill">UMSI</a><br>
         <a href="http://www.icpsr.umich.edu/icpsrweb/content/about/staff/hemphill.html">ICPSR</a><br>
@@ -25,15 +26,10 @@
 		<a href="http://github.com/casmlab">Lab GitHub</a><br>
         <a href="http://github.com/libbyh">Personal GitHub</a><br>
         <a href="http://www.twitter.com/libbyh">Twitter</a><br>
-	      <a href="https://medium.com/@libbyh">Medium</a>
-
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
+        <a href="https://medium.com/@libbyh">Medium</a>
+        <br><br>
+        <p><img src="files/headshot.jpg" alt="headshot" size="80%" /></p>
+        <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
       <section>
 
@@ -41,10 +37,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <!---->
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
