@@ -20,9 +20,10 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 I'm recruiting __PhD students__ to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
 
-PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are __[due December 1](https://www.si.umich.edu/academics/admissions/phd-application-requirements)__. I'm looking for 1-2 PhD students who are interested in
+PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are __[due December 1](https://www.si.umich.edu/academics/admissions/phd-application-requirements)__. I'm looking for 2-3 PhD students who are interested in
 * digital curation and data management, especially administrative and/or social media data
 * politics and social media, especially in the U.S. and/or the Global South
+* hostility detection and de-escalation in social media
 
 # Get in Touch
 
