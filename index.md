@@ -4,9 +4,9 @@ layout: default
 
 # About Me
 
-I study politicians, non-profit organizations, and television fans to understand how people use social media to organize, discuss, and enact social change. My work has been funded by the National Science Foundation (NSF), the Nayar Prize, Amazon, DiscoverText, and Illinois Institute of Technology. 
+I study politicians, non-profit organizations, and television fans to understand how people use social media to organize, discuss, and enact social change. My work has been funded by the National Science Foundation, the [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system), [Mozilla](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), Amazon, DiscoverText, and Illinois Institute of Technology. 
 
-Social media has some very real toxicity challenges, like harassment and cyberbullying, that diminish its utility for collective efforts, so I [work on curbing those](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system) too.
+Social media has some very real toxicity challenges, like harassment and cyberbullying, that diminish its utility for collective and democratic efforts, so I work on curbing those too ([Mozilla Grant](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system)).
 
 I have a few titles at the [University of Michigan](http://www.umich.edu):
 
@@ -20,10 +20,17 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 I'm recruiting __PhD students__ to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
 
-PhD students will be admitted through the [School of Information](https://www.si.umich.edu/content/programs); applications are __[due December 1](https://www.si.umich.edu/academics/admissions/phd-application-requirements)__. I'm looking for 2-3 PhD students who are interested in
+PhD students will be admitted through the [School of Information](https://beta.si.umich.edu/programs/phd-information); applications are __[due December 1](https://beta.si.umich.edu/programs/phd-information/how-do-i-apply)__. I'm looking for 2-3 PhD students who are interested in
 * digital curation and data management, especially administrative and/or social media data
 * politics and social media, especially in the U.S. and/or the Global South
 * hostility detection and de-escalation in social media
+
+# Current Research Projects
+
+* [Social Media and Civic Engagement](https://nsf.gov/awardsearch/showAward?AWD_ID=1822228&HistoricalAwards=false)
+* [Learning and Automating De-escalation Strategies in Online Discussions](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/)
+* [Data Science in the Public Sector](https://nsf.gov/awardsearch/showAward?AWD_ID=1829724&HistoricalAwards=false)
+* [Open Badges for Researcher Credentialing](https://nsf.gov/awardsearch/showAward?AWD_ID=1839868&HistoricalAwards=false)
 
 # Get in Touch
 
@@ -43,6 +50,7 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
+* Hemphill, L., Million, A.J., and Erickson, I. (2018) [Crafting Moral Infrastructures: How Non-profits Use Facebook to Survive](https://deepblue.lib.umich.edu/handle/2027.42/145477)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. and Shapiro, M.A. (2018) [Appealing to the Base or to the Moveable Middle? Incumbents’ Partisan Messaging Before the 2016 U.S. Congressional Elections](http://hdl.handle.net/2027.42/142808)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ``Bad Actors''](http://hdl.handle.net/2027.42/142392)
