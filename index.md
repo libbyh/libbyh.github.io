@@ -54,8 +54,8 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
-* Hemphill, L. and Schopke, A.M. [Two Computational Models for Analyzing Political Attention in Social Media](https://deepblue.lib.umich.edu/handle/2027.42/147460)
-* Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., and Gilbert, E. [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://arxiv.org/abs/1901.11162)
+* Hemphill, L. and Schopke, A.M. (2019) [Two Computational Models for Analyzing Political Attention in Social Media](https://deepblue.lib.umich.edu/handle/2027.42/147460)
+* Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., and Gilbert, E. (2019) [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://arxiv.org/abs/1901.11162)
 * Hemphill, L., Million, A.J., and Erickson, I. (2018) [Crafting Moral Infrastructures: How Non-profits Use Facebook to Survive](https://deepblue.lib.umich.edu/handle/2027.42/145477)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. and Shapiro, M.A. (2018) [Appealing to the Base or to the Moveable Middle? Incumbents’ Partisan Messaging Before the 2016 U.S. Congressional Elections](http://hdl.handle.net/2027.42/142808)
