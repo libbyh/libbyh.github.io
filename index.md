@@ -18,7 +18,17 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 # Work with Me
 
-I'm recruiting __PhD students__ to work with me at both UMSI and ICPSR. Check out some of my research or other activities, and contact me if you're interested.
+## Post Docs
+
+I'm [hiring a postdoctoral research fellow](https://apply.interfolio.com/66585). The Fellow will join a team of researchers from ICPSR and the University of  Michigan School of Information (UMSI) working to understand the impacts of data archiving and sharing in social science. The position is funded  by a grant from the National Science Foundation to (1) understand how to responsibly allocate resources to data  archiving so that we can (2) articulate data archiving policies that  efficiently and effectively achieve innovation and transparency in social science. 
+
+The project will construct two measures of data’s scholarly impact—secondary impact and diversity—that depend on citations of the data. The ICPSR Bibliography of Data-Related Literature (the “Bibliography”) links over 80,000 research publications to the ICPSR data on which they are based. Generating the bibliography for a given study is currently a manual process, and datasets are often cited informally. The focus of the fellowship will be developing a predictive model that can assist staff in identifying informal and incomplete data citations. Given a set of publications, the model will (1) identify informal or incomplete dataset references and (2) determine whether the datasets match any in ICPSR’s collection.
+
+[Apply through Interfolio](https://apply.interfolio.com/66585); review of applications beings __September 1, 2019__ and will continue until the position is filled.
+
+## PhD Students
+
+I'm recruiting __PhD students__ for fall 2020. Check out some of my research, and contact me if you're interested.
 
 PhD students will be admitted through the [School of Information](https://beta.si.umich.edu/programs/phd-information); applications are __[due December 1](https://beta.si.umich.edu/programs/phd-information/how-do-i-apply)__. I'm looking for 1-2 PhD students who are interested in
 * digital curation and data management, especially administrative and/or social media data
@@ -28,6 +38,11 @@ I'm especially interested in students who are curious about the impact of social
 
 For instance, one of the papers I'm writing now uses a classification model we developed in Python using scikit-learn and nltk. We label tweets with that model and then use multinomial logisitic regression to understand differences between policy tweeting patterns in Congress. I use this approach---build and train a model, label some content, analyze the patterns, and explain the implications for political science and communication---in most of my work, and you should be interested in those steps and experienced in at least one of them.
 
+## Undergraduates
+
+I welcome undergrads in my research group! Right now, the best way to get involved is through [the Undergraduate Research Opportunity Program (UROP)](https://lsa.umich.edu/urop/students/fall-winter-programs.html) at Michigan. I'll start interviewing for Fall/Winter on September 11, 2019. This year's project is called "Using Machine Learning and Experiments to Detect and Address Extremism": 
+
+Extremist groups are especially adept at hiding in plain sight by using language that differs only slightly from acceptable speech (e.g., "blame on both sides") or employing thinly-veiled phrases that mask nefarious intent (e.g., "preserve our culture"). The subtleties of white supremacist language, especially, are not effectively captured by existing computational approaches to detecting and addressing it online. This project attempts to address this challenge by building an adaptive language model to detect white supremacist speech online. We will build machine learning models that can detect extremist speech and its changes (either over time or from innocuous speech) and create an API to help partners and users rate content they encounter.
 
 # Current Funded Research Projects
 
