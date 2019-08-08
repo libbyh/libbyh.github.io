@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I study politicians, non-profit organizations, and television fans to understand how people use social media to organize, discuss, and enact social change. I also study data curation, especially how we evaluate (a) the impacts of data reuse and (b) investments in curating and disseminating research data. My work has been funded by the [National Science Foundation](https://nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=libby&PILastName=hemphill&IncludeCoPI=true&BooleanElement=All&BooleanRef=All&ActiveAwards=true&ExpiredAwards=true), the [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system), [Mozilla](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), the [Anti-Defamation League](https://www.adl.org/belfer-fellows), Amazon, and DiscoverText. 
+I study politicians, non-profit organizations, and television fans to understand how people use social media to organize, discuss, and enact social change. I also study data curation, especially how we evaluate (a) the impacts of data reuse and (b) investments in curating and disseminating research data. My work has been funded by the [National Science Foundation](https://nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=libby&PILastName=hemphill&IncludeCoPI=true&BooleanElement=All&BooleanRef=All&ActiveAwards=true&ExpiredAwards=true), the [Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-37-19-0134-19), the [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system), [Mozilla](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), the [Anti-Defamation League](https://www.adl.org/belfer-fellows), Amazon, and DiscoverText. 
 
 Social media has some very real toxicity challenges, like harassment and cyberbullying, that diminish its utility for collective and democratic efforts, so I work on curbing those too ([Belfer Fellowship](https://www.adl.org/belfer-fellows), [Mozilla Grant](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system)).
 
@@ -47,6 +47,8 @@ Extremist groups are especially adept at hiding in plain sight by using language
 # Current Funded Research Projects
 
 * [Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://www.imls.gov/grants/awarded/lg-37-19-0134-19)
+* [ Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
+* [Belfer Fellowship at ADL's Center for Technology and Society](https://www.adl.org/belfer-fellows)
 * [Learning and Automating De-escalation Strategies in Online Discussions](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/)
 * [Data Science in the Public Sector](https://nsf.gov/awardsearch/showAward?AWD_ID=1829724&HistoricalAwards=false)
 * [Open Badges for Researcher Credentialing](https://nsf.gov/awardsearch/showAward?AWD_ID=1839868&HistoricalAwards=false)
