@@ -16,15 +16,7 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 From 2010 - 2017, I was a faculty member in the [Humanities Department](https://humansciences.iit.edu/humanities) and directed the [Collective Action and Social Media Lab](http://www.casmlab.org) at [Illinois Institute of Technology](http://www.iit.edu).
 
-# Work with Me
-
-## Post Docs
-
-I'm [hiring a faculty research fellow](https://apply.interfolio.com/66585). The Fellow will join a team of researchers from ICPSR and the University of  Michigan School of Information (UMSI) working to understand the impacts of data archiving and sharing in social science. The position is funded  by a grant from the National Science Foundation to (1) understand how to responsibly allocate resources to data  archiving so that we can (2) articulate data archiving policies that efficiently and effectively achieve innovation and transparency in social science.
-
-The project will construct two measures of data’s scholarly impact—secondary impact and diversity—that depend on citations of the data. The ICPSR Bibliography of Data-Related Literature (the “Bibliography”) links over 80,000 research publications to the ICPSR data on which they are based. Generating the bibliography for a given study is currently a manual process, and datasets are often cited informally. The focus of the fellowship will be developing a predictive model that can assist staff in identifying informal and incomplete data citations. Given a set of publications, the model will (1) identify informal or incomplete dataset references and (2) determine whether the datasets match any in ICPSR’s collection.
-
-[Apply through Interfolio](https://apply.interfolio.com/66585); review of applications beings __September 1, 2019__ and will continue until the position is filled.
+<!-- # Work with Me
 
 ## PhD Students
 
@@ -43,6 +35,8 @@ For instance, one of the papers I'm writing now uses a classification model we d
 I welcome undergrads in my research group! Right now, the best way to get involved is through [the Undergraduate Research Opportunity Program (UROP)](https://lsa.umich.edu/urop/students/fall-winter-programs.html) at Michigan. I'll start interviewing for Fall/Winter on September 11, 2019. This year's project is called "Using Machine Learning and Experiments to Detect and Address Extremism": 
 
 Extremist groups are especially adept at hiding in plain sight by using language that differs only slightly from acceptable speech (e.g., "blame on both sides") or employing thinly-veiled phrases that mask nefarious intent (e.g., "preserve our culture"). The subtleties of white supremacist language, especially, are not effectively captured by existing computational approaches to detecting and addressing it online. This project attempts to address this challenge by building an adaptive language model to detect white supremacist speech online. We will build machine learning models that can detect extremist speech and its changes (either over time or from innocuous speech) and create an API to help partners and users rate content they encounter.
+
+-->
 
 # Current Funded Research Projects
 
