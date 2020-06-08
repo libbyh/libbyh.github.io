@@ -55,7 +55,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
-* Hemphill, L., and Schöpke-Gonzalez, A.M. (2020) [Two Computational Models for Analyzing Political Attention in Social Media](http://hdl.handle.net/2027.42/147460). Accepted for publication at the _International AAAI Conference on Web and Social Media (ICWSM 2020)_.
+* Hemphill, L., and Schöpke-Gonzalez, A.M. (2020) [Two Computational Models for Analyzing Political Attention in Social Media](https://aaai.org/ojs/index.php/ICWSM/article/view/7297/7151). _International AAAI Conference on Web and Social Media (ICWSM 2020)_, 260-271.
 * Hemphill, L. and Shapiro, M.A. (2019) [Appealing to the Base or to the Moveable Middle? Incumbents’ Partisan Messaging Before the 2016 U.S. Congressional Elections](/files/Hemphill_Shapiro_Appealing_to_the_Base_JITP_AM.pdf).  _Journal of Information Technology and Politics_. doi: 10.1080/19331681.2019.1651685
 * Jurgens, D., Chandrasekharan, E., and Hemphill, L. (2019) [A Just and Comprehensive Strategy for Using NLP to Address Online Abuse](https://www.aclweb.org/anthology/P19-1357.pdf). _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)_. Florence, Italy.
 * Liu, P., Guberman, J., Hemphill, L., & Culotta, A. (2018). [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](files/Liu_et_al_Hostility_forecast_ICWSM.pdf). In *Proceedings of the 12th International Conference on Web and Social Media*. Stanford, CA, USA.
