@@ -55,7 +55,9 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
+* Hemphill, L., Russell, A., & Schöpke-Gonzalez, A. M. (2020). [What Drives U.S. Congressional Members’ Policy Attention on Twitter?](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.245) _Policy & Internet_. https://doi.org/10.1002/poi3.245
 * Hemphill, L., and Schöpke-Gonzalez, A.M. (2020) [Two Computational Models for Analyzing Political Attention in Social Media](https://aaai.org/ojs/index.php/ICWSM/article/view/7297/7151). _International AAAI Conference on Web and Social Media (ICWSM 2020)_, 260-271.
+* Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., & Gilbert, E. (2020). [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://dl.acm.org/doi/10.1145/3394231.3397889). _12th ACM Conference on Web Science_, 1–10. https://doi.org/10.1145/3394231.3397889 (* Best Paper Runner-up)
 * Hemphill, L. and Shapiro, M.A. (2019) [Appealing to the Base or to the Moveable Middle? Incumbents’ Partisan Messaging Before the 2016 U.S. Congressional Elections](/files/Hemphill_Shapiro_Appealing_to_the_Base_JITP_AM.pdf).  _Journal of Information Technology and Politics_. doi: 10.1080/19331681.2019.1651685
 * Jurgens, D., Chandrasekharan, E., and Hemphill, L. (2019) [A Just and Comprehensive Strategy for Using NLP to Address Online Abuse](https://www.aclweb.org/anthology/P19-1357.pdf). _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)_. Florence, Italy.
 * Liu, P., Guberman, J., Hemphill, L., & Culotta, A. (2018). [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](files/Liu_et_al_Hostility_forecast_ICWSM.pdf). In *Proceedings of the 12th International Conference on Web and Social Media*. Stanford, CA, USA.
@@ -68,7 +70,6 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
-* Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., and Gilbert, E. (2019) [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://arxiv.org/abs/1901.11162)
 * Hemphill, L., Million, A.J., and Erickson, I. (2018) [Crafting Moral Infrastructures: How Non-profits Use Facebook to Survive](https://deepblue.lib.umich.edu/handle/2027.42/145477)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ''Bad Actors''](http://hdl.handle.net/2027.42/142392)
