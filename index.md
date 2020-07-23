@@ -55,6 +55,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
+* Hemphill, L., Hedstrom, M. L., & Leonard, S. H. (2020). [Saving social media data: Understanding data management practices among social media researchers and their implications for archives](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24368). _Journal of the Association for Information Science and Technology_, 3, 34. https://doi.org/10.1002/asi.24368
 * Hemphill, L., Russell, A., & Schöpke-Gonzalez, A. M. (2020). [What Drives U.S. Congressional Members’ Policy Attention on Twitter?](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.245) _Policy & Internet_. https://doi.org/10.1002/poi3.245
 * Hemphill, L., and Schöpke-Gonzalez, A.M. (2020) [Two Computational Models for Analyzing Political Attention in Social Media](https://aaai.org/ojs/index.php/ICWSM/article/view/7297/7151). _International AAAI Conference on Web and Social Media (ICWSM 2020)_, 260-271.
 * Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., & Gilbert, E. (2020). [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://dl.acm.org/doi/10.1145/3394231.3397889). _12th ACM Conference on Web Science_, 1–10. https://doi.org/10.1145/3394231.3397889 (* Best Paper Runner-up)
