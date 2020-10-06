@@ -10,22 +10,27 @@ Social media has some very real toxicity challenges, like harassment and cyberbu
 
 I have a few titles at the [University of Michigan](http://www.umich.edu):
 
-* Director, [Resource Center for Minority Data](http://www.icpsr.umich.edu/RCMD), [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
-* Research Associate Professor, [Institute for Social Research](http://home.isr.umich.edu/)
 * Associate Professor, [School of Information](https://www.si.umich.edu/)
+* Research Associate Professor, [Institute for Social Research](http://home.isr.umich.edu/)
+* Director, [Resource Center for Minority Data](http://www.icpsr.umich.edu/RCMD), [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
+* Associate Director, [Center for Social Media Research](https://csmr.umich.edu/)
 
 From 2010 - 2017, I was a faculty member in the [Humanities Department](https://humansciences.iit.edu/humanities) and directed the [Collective Action and Social Media Lab](http://www.casmlab.org) at [Illinois Institute of Technology](http://www.iit.edu).
 
-<!-- # Work with Me
+# Work with Me
 
 ## PhD Students
 
-I'm recruiting __PhD students__ for fall 2020. Check out some of my research, and contact me if you're interested.
+I'm not sure whether I'm recruiting PhD students for fall 2021. Check out some of my research, and contact me if you're interested.
 
-PhD students will be admitted through the [School of Information](https://beta.si.umich.edu/programs/phd-information); applications are __[due December 1](https://beta.si.umich.edu/programs/phd-information/how-do-i-apply)__. I'm looking for 1-2 PhD students who are interested in
-* digital curation and data management, especially administrative and/or social media data
-* politics and social media, especially in the U.S. and/or the Global South
+PhD students will be admitted through the [School of Information](https://beta.si.umich.edu/programs/phd-information); applications are __[due December 1](https://beta.si.umich.edu/programs/phd-information/how-do-i-apply)__. I'm looking for 1 PhD student who's interested in digital curation and data management, especially administrative and/or social media data. Here are some of the questions I'm working on in this space:
+* What impacts do specific curatorial actions have on the impact or reuse of research data?
+* How should we structure archives of dynamic social media data?
+* How can data recommender systems impact research data reuse?
 
+I am likely not recruiting students in political communication or online harassment/hate.
+
+<!--
 I'm especially interested in students who are curious about the impact of social media on democracy and civic engagement and how we can use computation and automation to make conversations and participation (in politics, in science, in society) more _just_ and _accessible_. You should have _stats_ and _computational expertise_ or be willing to gain some quickly. You should also have expertise or a strong interest in _political science_, _critical race and feminism studies_, and/or _communication_. 
 
 For instance, one of the papers I'm writing now uses a classification model we developed in Python using scikit-learn and nltk. We label tweets with that model and then use multinomial logisitic regression to understand differences between policy tweeting patterns in Congress. I use this approach---build and train a model, label some content, analyze the patterns, and explain the implications for political science and communication---in most of my work, and you should be interested in those steps and experienced in at least one of them.
@@ -41,7 +46,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 # Current Funded Research Projects
 
 * [Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://www.imls.gov/grants/awarded/lg-37-19-0134-19)
-* [ Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
+* [Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
 * [Belfer Fellowship at ADL's Center for Technology and Society](https://www.adl.org/belfer-fellows)
 * [Learning and Automating De-escalation Strategies in Online Discussions](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/)
 * [Data Science in the Public Sector](https://nsf.gov/awardsearch/showAward?AWD_ID=1829724&HistoricalAwards=false)
