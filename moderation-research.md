@@ -21,10 +21,14 @@ Dr. Hemphill is the faculty lead at UMSI. She studies ways to use computation an
 
 ## Angela Schöpke Gonzalez
 [https://www.angelaschopke.com/](https://www.angelaschopke.com/)
-
-![](files/angela-profile-photo.jpg)
+![Image of Angela](files/angela-profile-photo.jpg)
 Angela M. Schöpke Gonzalez is a dance theater artist, writer, computational scientist, and curator. Her work draws inspiration from deep investigations of history, body, and infrastructural systems like policy and algorithms. Her current projects investigate how to address traumatization associated with the emotional labor of digital content moderation work, the consequences of technologized international borders on migrating human bodies, how to make space for the body's knowledge in academic and economic spaces which tend to value text, and emotional uncertainty with her forthcoming dance film Skeleton and Me. She is currently pursuing a PhD at the University of Michigan School of Information.
 
 ## Shubham Atreja
+![Image of Shubham](files/shubham-profile-photo.jpg)
+Shubham Atreja is a PhD student at the School of Information, University of Michigan. He is interested in evaluating and improving online socio-technical systems. His current research investigates ways to support the work of online content moderators, and how to engage the public in fighting misinformation online. Previously, he worked at IBM Research Labs in India, building systems and analyzing natural language data to facilitate technical support.
 
 ## Han Na Shin
+[https://iamhannashin.com](https://iamhannashin.com)
+![Image of Han Na](files/hanna-profile-photo.jpg)
+Han Na (Hanna) Shin and a second-year PhD student at the University of Michigan School of Information (UMSI). She is co-advised by Dr. Cliff Lampe and Dr. Libby Hemphill, and a member of the Social Media Research Lab (SMRL).
