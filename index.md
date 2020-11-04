@@ -45,6 +45,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 # Current Funded Research Projects
 
+* [Augmenting Social Media Content Moderation](https://nsf.gov/awardsearch/showAward?AWD_ID=1928434&HistoricalAwards=false)
 * [Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://www.imls.gov/grants/awarded/lg-37-19-0134-19)
 * [Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
 * [Belfer Fellowship at ADL's Center for Technology and Society](https://www.adl.org/belfer-fellows)
