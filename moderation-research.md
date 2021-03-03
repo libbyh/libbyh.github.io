@@ -7,11 +7,13 @@ Around the world, users of social media platforms generate millions of comments,
 
 This research project, a collaboration among researchers at the [New Jersey Institute of Technology](https://people.njit.edu/faculty/wohn), [UCLA](https://gseis.ucla.edu/directory/sarah-roberts/), and the [University of Michigan](https://www.si.umich.edu/people/libby-hemphill), will improve moderators' quality of life, augment their capabilities, and help society understand how moderation decisions are made and how to support the workers who help keep the internet open and enjoyable. These advances will enable moderation efforts to keep pace with user-generated content and ensure that problematic content does not overwhelm internet users. The project includes outreach and engagement activities with academic, industry, policy-makers, and the public that ensure the project's findings and tools support broad stakeholders impacted by user-generated content and its moderation. We're funded by the [National Science Foundation](https://nsf.gov/awardsearch/showAward?AWD_ID=1928434&HistoricalAwards=false).
 
+## Designing systems ~~for~~ with moderators
+
+We are exploring new ways to support moderators, potentially with artificial intelligence or other kinds of computational assistance. Eventually, we want a system that is designed with moderators (rather than for moderators) through their continuous engagement and feedback.  We are currently engaging with moderators to understand the direction we should take as well as find partners for long-term engagement. If you are a moderator for a subreddit and would like to participate, you can reach out to us [via email](mailto:moderationresearch@umich.edu) or [message u/moderationresearch on Reddit](https://www.reddit.com/user/moderationresearch).
+
 ## Survey of Moderators Who Quit
 
-You are invited to participate in a study about your experiences as a moderator for subreddits or Facebook Groups. This study is facilitated by a group of researchers at the [University of Michigan School of Information](https://www.si.umich.edu/), many of us current and former subreddit or Facebook Group moderators ourselves. We hope that learning more about your experiences will help us as a research team and community of moderators develop ways to better support each other in our work.
-
-Have you quit moderating a Facebook group or subreddit? We'd love to hear about your experiences: [https://umich.qualtrics.com/jfe/form/SV_428JWYY2NU1se5n](https://umich.qualtrics.com/jfe/form/SV_428JWYY2NU1se5n)
+In fall 2020, we fielded a survey of moderators who had quit moderating subreddits of Facebook groups. Stay tuned for updates about the results of the survey.
 
 # UMSI Research Team
 
