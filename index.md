@@ -19,6 +19,17 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 # Work with Me
 
+Thank you for your interest! I'm not recruiting student RAs right now. 
+
+## Post Docs
+
+I am a faculty mentor in the [2021 Michigan Data Science Fellows Program](https://midas.umich.edu/2021-fellows/). It's a two-year program, and a fellow who works with me with have a co-mentor in UMSI and join research communities in the [Institute for Research on Women and Gender](https://irwg.umich.edu/) and/or [Digital Studies Institute](https://www.digitalstudies.umich.edu/).
+
+I'm looking for someone interested in using computational approaches to understand social media experiences of historically marginalized populations. For instance, projects in this space grow from seeds like: what's the difference in viewership and promotion for fashion YouTubers of different races? What rates of content deletion do women and nonbinary folks face compared to men on Reddit? How do the demographics of the labelers influence supervised machine learning models for toxicty detection?
+
+Candidates and mentors must apply jointly by *April 23*. [Email me](mailto:libbyh@umich.edu) by *March 31* if you're interested in applying together.
+
+<!--
 ## PhD Students
 
 I'm not sure whether I'm recruiting PhD students for fall 2021. Check out some of my research, and contact me if you're interested.
@@ -30,7 +41,7 @@ PhD students will be admitted through the [School of Information](https://beta.s
 
 I am likely not recruiting students in political communication or online harassment/hate.
 
-<!--
+
 I'm especially interested in students who are curious about the impact of social media on democracy and civic engagement and how we can use computation and automation to make conversations and participation (in politics, in science, in society) more _just_ and _accessible_. You should have _stats_ and _computational expertise_ or be willing to gain some quickly. You should also have expertise or a strong interest in _political science_, _critical race and feminism studies_, and/or _communication_. 
 
 For instance, one of the papers I'm writing now uses a classification model we developed in Python using scikit-learn and nltk. We label tweets with that model and then use multinomial logisitic regression to understand differences between policy tweeting patterns in Congress. I use this approach---build and train a model, label some content, analyze the patterns, and explain the implications for political science and communication---in most of my work, and you should be interested in those steps and experienced in at least one of them.
@@ -61,6 +72,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
+* Hemphill, L., Million, A. J., & Erickson, I. (2021). [How nonprofits use Facebook to craft infrastructure](https://doi.org/10.5210/fm.v26i3.10265). _First Monday_. https://doi.org/10.5210/fm.v26i3.10265
 * Hemphill, L., Hedstrom, M. L., & Leonard, S. H. (2020). [Saving social media data: Understanding data management practices among social media researchers and their implications for archives](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24368). _Journal of the Association for Information Science and Technology_, 3, 34. https://doi.org/10.1002/asi.24368
 * Hemphill, L., Russell, A., & Schöpke-Gonzalez, A. M. (2020). [What Drives U.S. Congressional Members’ Policy Attention on Twitter?](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.245) _Policy & Internet_. https://doi.org/10.1002/poi3.245
 * Hemphill, L., and Schöpke-Gonzalez, A.M. (2020) [Two Computational Models for Analyzing Political Attention in Social Media](https://aaai.org/ojs/index.php/ICWSM/article/view/7297/7151). _International AAAI Conference on Web and Social Media (ICWSM 2020)_, 260-271.
@@ -70,8 +82,7 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 * Liu, P., Guberman, J., Hemphill, L., & Culotta, A. (2018). [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](files/Liu_et_al_Hostility_forecast_ICWSM.pdf). In *Proceedings of the 12th International Conference on Web and Social Media*. Stanford, CA, USA.
 * Shapiro, M.A. and Hemphill, L. (2017). [Politicians and the Policy Agenda: Does Use of Twitter by the U.S. Congress Direct _New York Times_ Content?](/files/Shapiro_Hemphill_2016_Politicians_and_the_Policy_Agenda.pdf) _Policy and Internet_ . doi: 10.1002/poi3.120
 * Hemphill, L., Culotta, A., & Heston, M. (2016). [#Polar Scores: Measuring Partisanship Using Social Media Content](/files/Hemphill_Culotta_Heston_2016_Polar_Scores.pdf). _Journal of Information Technology & Politics_. _13_(4). doi: 10.1080/19331681.2016.1214093
-* Hemphill, L., Roback, A. (2014) [Tweet Acts: How Constituents Lobby Congress via Twitter](/files/Hemphill_and_Roback_2014_Tweet_Acts.pdf). _Proceedings of the 2014 ACM Conference on Computer Supported Cooperative Work_, Baltimore, MD. doi: 10.1145/2531602.2531735
-* Hemphill, L., Otterbacher, J., and Shapiro, M.A. (2013) [What’s Congress Doing on Twitter?](/files/Hemphill_Otterbacher_Shapiro_2013_Whats_Congress_Doing_on_Twitter.pdf) _Proceedings of the 2013 ACM Conference on Computer Supported Cooperative Work_, San Antonio, TX, 887-886. doi: 10.1145/2441776.2441876
+
 
 # Working Papers
 
