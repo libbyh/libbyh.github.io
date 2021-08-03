@@ -19,8 +19,9 @@ From 2010 - 2017, I was a faculty member in the [Humanities Department](https://
 
 # Work with Me
 
-Thank you for your interest! I'm not recruiting student RAs right now. 
+Thank you for your interest! I'm not recruiting student or postdocs right now. 
 
+<!--
 ## Post Docs
 
 I am a faculty mentor in the [2021 Michigan Data Science Fellows Program](https://midas.umich.edu/2021-fellows/). It's a two-year program, and a fellow who works with me with have a co-mentor in UMSI and join research communities in the [Institute for Research on Women and Gender](https://irwg.umich.edu/) and/or [Digital Studies Institute](https://www.digitalstudies.umich.edu/).
@@ -29,7 +30,7 @@ I'm looking for someone interested in using computational approaches to understa
 
 Candidates and mentors must apply jointly by *April 23*. [Email me](mailto:libbyh@umich.edu) by *March 31* if you're interested in applying together.
 
-<!--
+
 ## PhD Students
 
 I'm not sure whether I'm recruiting PhD students for fall 2021. Check out some of my research, and contact me if you're interested.
@@ -72,6 +73,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
+* Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). Leveraging Machine Learning to Detect Data Curation Activities. _Proceedings of 2021 IEEE 17th International Conference on E-Science_. http://arxiv.org/abs/2105.00030
 * Hemphill, L., Million, A. J., & Erickson, I. (2021). [How nonprofits use Facebook to craft infrastructure](https://doi.org/10.5210/fm.v26i3.10265). _First Monday_. https://doi.org/10.5210/fm.v26i3.10265
 * Hemphill, L., Hedstrom, M. L., & Leonard, S. H. (2020). [Saving social media data: Understanding data management practices among social media researchers and their implications for archives](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24368). _Journal of the Association for Information Science and Technology_, 3, 34. https://doi.org/10.1002/asi.24368
 * Hemphill, L., Russell, A., & Schöpke-Gonzalez, A. M. (2020). [What Drives U.S. Congressional Members’ Policy Attention on Twitter?](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.245) _Policy & Internet_. https://doi.org/10.1002/poi3.245
@@ -88,7 +90,8 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf), and a few recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
-* Hemphill, L., Million, A.J., and Erickson, I. (2018) [Crafting Moral Infrastructures: How Non-profits Use Facebook to Survive](https://deepblue.lib.umich.edu/handle/2027.42/145477)
+* Lafia, S., Ko, J-W., Moss, E., Kim, J., Thomer, A., Hemphill, L. (2021) [Detecting Informal Data References in Academic Literature.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168392/Detecting_Informal_Data_Refs.pdf?sequence=1&isAllowed=y)
+* Hemphill, L., Pienta, A., Lafia, S., Akmon, D., Bleckley, D. (2021) [How do properties of data, their curation, and their funding relate to reuse?](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168212/Hemphill%20et%20al%20Data%20downloads.pdf?sequence=5&isAllowed=y)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ''Bad Actors''](http://hdl.handle.net/2027.42/142392)
 * Hemphill, L., Culotta, A., and Heston, M. (2013) [Framing in Social Media: How the US Congress Uses Twitter Hashtags to Frame Political Issues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2317335)
