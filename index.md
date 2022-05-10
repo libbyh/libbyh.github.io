@@ -17,7 +17,7 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 # Work with Me
 
-Thank you for your interest! I'm not recruiting student or postdocs right now. 
+Thank you for your interest! I'm not recruiting students or postdocs in the next 6 months (at least). 
 
 <!--
 ## Post Docs
