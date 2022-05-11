@@ -70,8 +70,8 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 ## Social Media, Content Moderation, and Extremism
 
-* Hemphill, L. (2022) [Very Fine People: What Social Media Platforms Miss About White Supremacist Speech](https://www.adl.org/language-of-white-supremacy)). The Anti-Defamation League.
-* Balasubramanian, S.K., Bilgic, M., Culotta, A., Hemphill, L., Nikolich, A., Shapiro, M.A., (2022) [Leaders or Followers? A Temporal Analysis of Tweets from IRA Trolls](https://doi.org/10.48550/arXiv.2204.01790)). 16th International AAAI Conference on Web and Social Media (ICWSM 2022).
+* Hemphill, L. (2022) [Very Fine People: What Social Media Platforms Miss About White Supremacist Speech](https://www.adl.org/language-of-white-supremacy). _The Anti-Defamation League_.
+* Balasubramanian, S.K., Bilgic, M., Culotta, A., Hemphill, L., Nikolich, A., Shapiro, M.A., (2022) [Leaders or Followers? A Temporal Analysis of Tweets from IRA Trolls](https://doi.org/10.48550/arXiv.2204.01790). _16th International AAAI Conference on Web and Social Media (ICWSM 2022)_.
 * Hemphill, L., Million, A. J., & Erickson, I. (2021). [How nonprofits use Facebook to craft infrastructure](https://doi.org/10.5210/fm.v26i3.10265). _First Monday_. https://doi.org/10.5210/fm.v26i3.10265
 * Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., & Gilbert, E. (2020). [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://dl.acm.org/doi/10.1145/3394231.3397889). _12th ACM Conference on Web Science_, 1–10. https://doi.org/10.1145/3394231.3397889 (* Best Paper Runner-up)
 * Jurgens, D., Chandrasekharan, E., and Hemphill, L. (2019) [A Just and Comprehensive Strategy for Using NLP to Address Online Abuse](https://www.aclweb.org/anthology/P19-1357.pdf). _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)_. Florence, Italy.
@@ -79,8 +79,8 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 ## Data Curation and Archiving
 
-* Hemphill, L., Pienta, A., Lafia, S., Akmon, D., and Bleckley, D. (2022) [How do Properties of Data, Their Curation, and Their Funding Relate to Reuse?](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24646)) Journal of the Association for Information Science and Technology. doi: 10.1002/asi.24646.
-* Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). Leveraging Machine Learning to Detect Data Curation Activities. _Proceedings of 2021 IEEE 17th International Conference on E-Science_. http://arxiv.org/abs/2105.00030
+* Hemphill, L., Pienta, A., Lafia, S., Akmon, D., and Bleckley, D. (2022) [How do Properties of Data, Their Curation, and Their Funding Relate to Reuse?](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24646)) _Journal of the Association for Information Science and Technology_. doi: 10.1002/asi.24646.
+* Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). [Leveraging Machine Learning to Detect Data Curation Activities](https://www.computer.org/csdl/proceedings-article/escience/2021/036100a149/1y14GVsTZ2E). _Proceedings of 2021 IEEE 17th International Conference on E-Science_. http://arxiv.org/abs/2105.00030
 * Hemphill, L., Hedstrom, M. L., & Leonard, S. H. (2020). [Saving social media data: Understanding data management practices among social media researchers and their implications for archives](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24368). _Journal of the Association for Information Science and Technology_, 3, 34. https://doi.org/10.1002/asi.24368
 
 
