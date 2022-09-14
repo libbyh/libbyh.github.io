@@ -6,13 +6,14 @@ layout: default
 
  Social media has some very real toxicity challenges, like harassment and cyberbullying, that diminish its utility for collective and democratic efforts, and I study human-AI content moderation to address those challenges ([NSF Grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1928434&HistoricalAwards=false), [Belfer Fellowship](https://www.adl.org/belfer-fellows), [Mozilla Grant](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system)). I also study data curation, especially how we evaluate (a) the impacts of data reuse and (b) investments in curating and disseminating research data. My work has been funded by the [National Science Foundation](https://nsf.gov/awardsearch/advancedSearchResult?PIId=&PIFirstName=libby&PILastName=hemphill&IncludeCoPI=true&BooleanElement=All&BooleanRef=All&ActiveAwards=true&ExpiredAwards=true), the [Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-37-19-0134-19), the [Nayar Prize](https://web.iit.edu/nayar-prize/finalists/teams/cyberbullying-early-warning-and-response-system), [Mozilla](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/), the [Anti-Defamation League](https://www.adl.org/belfer-fellows), Amazon, and DiscoverText. 
 
-
-
 I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 * Associate Professor, [School of Information](https://www.si.umich.edu/)
 * Research Associate Professor, [Institute for Social Research](http://home.isr.umich.edu/)
+* Associate Professor, [Digital Studies Institute](https://www.digitalstudies.umich.edu/), [College of Literature, Science, and the Arts](https://lsa.umich.edu/)
+
 * Director, [Resource Center for Minority Data](http://www.icpsr.umich.edu/RCMD), [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
+* Director, [Social Media Archive](http://socialmediaarchive.org), [ICPSR](http://www.icpsr.umich.edu/icpsrweb/)
 * Associate Director, [Center for Social Media Research](https://csmr.umich.edu/)
 
 # Work with Me
@@ -27,7 +28,7 @@ I am a faculty mentor in the [2021 Michigan Data Science Fellows Program](https:
 I'm looking for someone interested in using computational approaches to understand social media experiences of historically marginalized populations. For instance, projects in this space grow from seeds like: what's the difference in viewership and promotion for fashion YouTubers of different races? What rates of content deletion do women and nonbinary folks face compared to men on Reddit? How do the demographics of the labelers influence supervised machine learning models for toxicty detection?
 
 Candidates and mentors must apply jointly by *April 23*. [Email me](mailto:libbyh@umich.edu) by *March 31* if you're interested in applying together.
--->
+
 
 ## PhD Students
 
@@ -40,7 +41,6 @@ PhD students will be admitted through the [School of Information](https://beta.s
 
 I'm especially interested in students who are curious about the impact of social media on democracy and civic engagement and how we can use computation and automation to make conversations and participation (in politics, in science, in society) more _just_ and _accessible_. You should have _stats_ and _computational expertise_ or be willing to gain some quickly. You should also have expertise or a strong interest in _political science_, _critical race and feminism studies_, and/or _communication_. 
 
-<!--
 
 ## Undergraduates
 
@@ -68,6 +68,14 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
+## Data Curation and Archiving
+* Lafia, S., Fan, L., Thomer, A.K., and Hemphill, L. (in press) [Subdivisions and Crossroads: Identifying Hidden Community Structures in a Data Archive's Citation Network](https://arxiv.org/abs/2205.08395). _Quantitative Science Studies_.
+* Thomer, A. K., Akmon, D., York, J., Tyler, A. R. B., Polasak, F., Lafia, S., Hemphill, L., & Yakel, E. (2022). [The craft and coordination of data curation: complicating “workflow” views of data science](https://doi.org/10.7302/4017). _Proceedings of the ACM on Human Computer Interaction (PACM HCI)_. doi: 10.7302/4017.
+* Lafia, S., Fan, L., & Hemphill, L. (2022) [A Natural Language Processing Pipeline for Detecting Informal Data References in Academic Literature](https://arxiv.org/abs/2205.11651). _Proceedings of the Association for Information Science and Technology (ASIS&T)_.
+* Hemphill, L., Pienta, A., Lafia, S., Akmon, D., and Bleckley, D. (2022) [How do Properties of Data, Their Curation, and Their Funding Relate to Reuse?](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24646)) _Journal of the Association for Information Science and Technology_. doi: 10.1002/asi.24646.
+* Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). [Leveraging Machine Learning to Detect Data Curation Activities](https://www.computer.org/csdl/proceedings-article/escience/2021/036100a149/1y14GVsTZ2E). _Proceedings of 2021 IEEE 17th International Conference on E-Science_. http://arxiv.org/abs/2105.00030
+* Hemphill, L., Hedstrom, M. L., & Leonard, S. H. (2020). [Saving social media data: Understanding data management practices among social media researchers and their implications for archives](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24368). _Journal of the Association for Information Science and Technology_, 3, 34. https://doi.org/10.1002/asi.24368
+
 ## Social Media, Content Moderation, and Extremism
 
 * Hemphill, L. (2022) [Very Fine People: What Social Media Platforms Miss About White Supremacist Speech](https://www.adl.org/language-of-white-supremacy). _The Anti-Defamation League_.
@@ -76,12 +84,6 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 * Im, J., Chandrasekharan, E., Sargent, J., Lighthammer, P., Denby, T., Bhargava, A., Hemphill, L., Jurgens, D., & Gilbert, E. (2020). [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://dl.acm.org/doi/10.1145/3394231.3397889). _12th ACM Conference on Web Science_, 1–10. https://doi.org/10.1145/3394231.3397889 (* Best Paper Runner-up)
 * Jurgens, D., Chandrasekharan, E., and Hemphill, L. (2019) [A Just and Comprehensive Strategy for Using NLP to Address Online Abuse](https://www.aclweb.org/anthology/P19-1357.pdf). _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)_. Florence, Italy.
 * Liu, P., Guberman, J., Hemphill, L., & Culotta, A. (2018). [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](files/Liu_et_al_Hostility_forecast_ICWSM.pdf). In *Proceedings of the 12th International Conference on Web and Social Media*. Stanford, CA, USA.
-
-## Data Curation and Archiving
-
-* Hemphill, L., Pienta, A., Lafia, S., Akmon, D., and Bleckley, D. (2022) [How do Properties of Data, Their Curation, and Their Funding Relate to Reuse?](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24646)) _Journal of the Association for Information Science and Technology_. doi: 10.1002/asi.24646.
-* Lafia, S., Thomer, A., Bleckley, D., Akmon, D., & Hemphill, L. (2021). [Leveraging Machine Learning to Detect Data Curation Activities](https://www.computer.org/csdl/proceedings-article/escience/2021/036100a149/1y14GVsTZ2E). _Proceedings of 2021 IEEE 17th International Conference on E-Science_. http://arxiv.org/abs/2105.00030
-* Hemphill, L., Hedstrom, M. L., & Leonard, S. H. (2020). [Saving social media data: Understanding data management practices among social media researchers and their implications for archives](https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24368). _Journal of the Association for Information Science and Technology_, 3, 34. https://doi.org/10.1002/asi.24368
 
 
 ## Political Communication in Social Media
@@ -97,6 +99,8 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
+* Hemphill, L., Schöpke-Gonzalez, A., Panda, A. (2022) [More than Weight, Less than Driver's License Number: Comparative Sensitivity of Social Media Data and Their Acceptable Use in Research](https://deepblue.lib.umich.edu/handle/2027.42/172864)
+* Atreja, S., Hemphill, L., Resnick, P. (2022) [What is the Will of the People? Moderation Preferences for Misinformation](https://arxiv.org/abs/2202.00799)
 * Lafia, S., Ko, J-W., Moss, E., Kim, J., Thomer, A., Hemphill, L. (2021) [Detecting Informal Data References in Academic Literature.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168392/Detecting_Informal_Data_Refs.pdf?sequence=1&isAllowed=y)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ''Bad Actors''](http://hdl.handle.net/2027.42/142392)
