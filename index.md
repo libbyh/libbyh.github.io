@@ -54,7 +54,7 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 * [Augmenting Social Media Content Moderation](https://nsf.gov/awardsearch/showAward?AWD_ID=1928434&HistoricalAwards=false)
 * [Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://www.imls.gov/grants/awarded/lg-37-19-0134-19)
-* [Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
+<!--* [Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)-->
 <!-- * [Belfer Fellowship at ADL's Center for Technology and Society](https://www.adl.org/belfer-fellows) -->
 <!-- * [Learning and Automating De-escalation Strategies in Online Discussions](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/) -->
 * [Data Science in the Public Sector](https://nsf.gov/awardsearch/showAward?AWD_ID=1829724&HistoricalAwards=false)
@@ -69,7 +69,9 @@ Extremist groups are especially adept at hiding in plain sight by using language
 Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 ## Data Curation and Archiving
-* Lafia, S., Fan, L., Thomer, A.K., and Hemphill, L. (in press) [Subdivisions and Crossroads: Identifying Hidden Community Structures in a Data Archive's Citation Network](https://arxiv.org/abs/2205.08395). _Quantitative Science Studies_.
+
+* Hemphill, L., Schöpke-Gonzalez, A., & Panda, A. (2022). [Comparative sensitivity of social media data and their acceptable use in research](https://www.nature.com/articles/s41597-022-01773-w). _Scientific Data_, 9(1), 643. doi: 10.1038/s41597-022-01773-w
+* Lafia, S., Fan, L., Thomer, A.K., and Hemphill, L. (2022) [Subdivisions and Crossroads: Identifying Hidden Community Structures in a Data Archive's Citation Network](https://direct.mit.edu/qss/article/3/3/694/112945/Subdivisions-and-crossroads-Identifying-hidden). _Quantitative Science Studies_. doi: 10.1162/qss_a_00209.
 * Thomer, A. K., Akmon, D., York, J., Tyler, A. R. B., Polasak, F., Lafia, S., Hemphill, L., & Yakel, E. (2022). [The craft and coordination of data curation: complicating “workflow” views of data science](https://doi.org/10.7302/4017). _Proceedings of the ACM on Human Computer Interaction (PACM HCI)_. doi: 10.7302/4017.
 * Lafia, S., Fan, L., & Hemphill, L. (2022) [A Natural Language Processing Pipeline for Detecting Informal Data References in Academic Literature](https://arxiv.org/abs/2205.11651). _Proceedings of the Association for Information Science and Technology (ASIS&T)_.
 * Hemphill, L., Pienta, A., Lafia, S., Akmon, D., and Bleckley, D. (2022) [How do Properties of Data, Their Curation, and Their Funding Relate to Reuse?](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.24646)) _Journal of the Association for Information Science and Technology_. doi: 10.1002/asi.24646.
@@ -78,6 +80,7 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 ## Social Media, Content Moderation, and Extremism
 
+* Schöpke-Gonzalez, A., Atreja, S., Shin, H. N., Ahmed, N., & Hemphill, L. (2022). [Why do volunteer content moderators quit? Burnout, conflict, and harmful behaviors](https://journals.sagepub.com/eprint/BBWM7VPP9JCWFWFZMIZY/full). _New Media & Society_. doi: 10.1177/14614448221138
 * Hemphill, L. (2022) [Very Fine People: What Social Media Platforms Miss About White Supremacist Speech](https://www.adl.org/language-of-white-supremacy). _The Anti-Defamation League_.
 * Balasubramanian, S.K., Bilgic, M., Culotta, A., Hemphill, L., Nikolich, A., Shapiro, M.A., (2022) [Leaders or Followers? A Temporal Analysis of Tweets from IRA Trolls](https://doi.org/10.48550/arXiv.2204.01790). _16th International AAAI Conference on Web and Social Media (ICWSM 2022)_.
 * Hemphill, L., Million, A. J., & Erickson, I. (2021). [How nonprofits use Facebook to craft infrastructure](https://doi.org/10.5210/fm.v26i3.10265). _First Monday_. https://doi.org/10.5210/fm.v26i3.10265
@@ -99,7 +102,6 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
-* Hemphill, L., Schöpke-Gonzalez, A., Panda, A. (2022) [More than Weight, Less than Driver's License Number: Comparative Sensitivity of Social Media Data and Their Acceptable Use in Research](https://deepblue.lib.umich.edu/handle/2027.42/172864)
 * Atreja, S., Hemphill, L., Resnick, P. (2022) [What is the Will of the People? Moderation Preferences for Misinformation](https://arxiv.org/abs/2202.00799)
 * Lafia, S., Ko, J-W., Moss, E., Kim, J., Thomer, A., Hemphill, L. (2021) [Detecting Informal Data References in Academic Literature.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168392/Detecting_Informal_Data_Refs.pdf?sequence=1&isAllowed=y)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
