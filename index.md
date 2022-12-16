@@ -18,18 +18,13 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 # Work with Me
 
-Thank you for your interest! I'm not recruiting students or postdocs right now. 
+Thank you for your interest! I'm recruiting postdocs through the [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/):
+
+The [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/) is now accepting applications for the 2023 cohort. I'd be willing to mentor someone interested in using computational approaches to understand social media experiences of historically marginalized populations. These projects would fit the _Enhancing Scientific and Societal Impact_ or _Measuring and Improving Society_ themes for the program. For instance, projects in this space grow from seeds like: what's the difference in viewership and promotion for fashion YouTubers of different races? What rates of content deletion do women and nonbinary folks face compared to men on Reddit? How do the demographics of the labelers influence supervised machine learning models for toxicty detection?
+
+Candidates and mentors must apply jointly by *January 15*. [Email me](mailto:libbyh@umich.edu) by *December 31* if you're interested in applying together.
 
 <!--
-## Post Docs
-
-I am a faculty mentor in the [2021 Michigan Data Science Fellows Program](https://midas.umich.edu/2021-fellows/). It's a two-year program, and a fellow who works with me with have a co-mentor in UMSI and join research communities in the [Institute for Research on Women and Gender](https://irwg.umich.edu/) and/or [Digital Studies Institute](https://www.digitalstudies.umich.edu/).
-
-I'm looking for someone interested in using computational approaches to understand social media experiences of historically marginalized populations. For instance, projects in this space grow from seeds like: what's the difference in viewership and promotion for fashion YouTubers of different races? What rates of content deletion do women and nonbinary folks face compared to men on Reddit? How do the demographics of the labelers influence supervised machine learning models for toxicty detection?
-
-Candidates and mentors must apply jointly by *April 23*. [Email me](mailto:libbyh@umich.edu) by *March 31* if you're interested in applying together.
-
-
 ## PhD Students
 
 I'm not sure whether I'm recruiting PhD students for fall 2023. Check out some of my research, and contact me if you're interested.
