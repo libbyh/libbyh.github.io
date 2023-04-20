@@ -18,11 +18,13 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 # Work with Me
 
-Thank you for your interest! I'm recruiting postdocs through the [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/):
+Thank you for your interest! I am not recruiting students or postdocs or accepting new committee invitations right now.
 
-The [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/) is now accepting applications for the 2023 cohort. I'd be willing to mentor someone interested in using computational approaches to understand social media experiences of historically marginalized populations. These projects would fit the _Enhancing Scientific and Societal Impact_ or _Measuring and Improving Society_ themes for the program. For instance, projects in this space grow from seeds like: what's the difference in viewership and promotion for fashion YouTubers of different races? What rates of content deletion do women and nonbinary folks face compared to men on Reddit? How do the demographics of the labelers influence supervised machine learning models for toxicty detection?
-
-Candidates and mentors must apply jointly by *January 15*. [Email me](mailto:libbyh@umich.edu) by *December 31* if you're interested in applying together.
+<!--I'm recruiting postdocs through the [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/):-->
+<!---->
+<!--The [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/) is now accepting applications for the 2023 cohort. I'd be willing to mentor someone interested in using computational approaches to understand social media experiences of historically marginalized populations. These projects would fit the _Enhancing Scientific and Societal Impact_ or _Measuring and Improving Society_ themes for the program. For instance, projects in this space grow from seeds like: what's the difference in viewership and promotion for fashion YouTubers of different races? What rates of content deletion do women and nonbinary folks face compared to men on Reddit? How do the demographics of the labelers influence supervised machine learning models for toxicty detection?-->
+<!---->
+<!--Candidates and mentors must apply jointly by *January 15*. [Email me](mailto:libbyh@umich.edu) by *December 31* if you're interested in applying together.-->
 
 <!--
 ## PhD Students
@@ -97,7 +99,7 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
-* Atreja, S., Hemphill, L., Resnick, P. (2022) [What is the Will of the People? Moderation Preferences for Misinformation](https://arxiv.org/abs/2202.00799)
+* Atreja, S., Hemphill, L., Resnick, P. (2022) [What is the Will of the People? Moderation Preferences for Misinformation](https://arxiv.org/abs/2202.00799) [accepted at CSCW 2023]
 * Lafia, S., Ko, J-W., Moss, E., Kim, J., Thomer, A., Hemphill, L. (2021) [Detecting Informal Data References in Academic Literature.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168392/Detecting_Informal_Data_Refs.pdf?sequence=1&isAllowed=y)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ''Bad Actors''](http://hdl.handle.net/2027.42/142392)
