@@ -18,7 +18,7 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 # Work with Me
 
-Thank you for your interest! I am not recruiting students or postdocs or accepting new committee invitations right now.
+Thank you for your interest! I am *not* recruiting students or postdocs or accepting new committee invitations right now (or for Fall 2024).
 
 <!--I'm recruiting postdocs through the [Michigan Data Science Fellows program](https://midas.umich.edu/fellows/):-->
 <!---->
@@ -47,15 +47,17 @@ Extremist groups are especially adept at hiding in plain sight by using language
 
 -->
 
+<!-- 
 # Current Funded Research Projects
 
 * [Augmenting Social Media Content Moderation](https://nsf.gov/awardsearch/showAward?AWD_ID=1928434&HistoricalAwards=false)
 * [Measuring and Improving the Efficacy of Curation Activities in Data Archives](https://www.imls.gov/grants/awarded/lg-37-19-0134-19)
-<!--* [Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)-->
-<!-- * [Belfer Fellowship at ADL's Center for Technology and Society](https://www.adl.org/belfer-fellows) -->
-<!-- * [Learning and Automating De-escalation Strategies in Online Discussions](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/) -->
+* [Developing Evidence-based Data Sharing and Archiving Policies](https://nsf.gov/awardsearch/showAward?AWD_ID=1930645&HistoricalAwards=false)
+* [Belfer Fellowship at ADL's Center for Technology and Society](https://www.adl.org/belfer-fellows)
+* [Learning and Automating De-escalation Strategies in Online Discussions](https://blog.mozilla.org/blog/2018/07/11/mozilla-funds-top-research-projects/)
 * [Data Science in the Public Sector](https://nsf.gov/awardsearch/showAward?AWD_ID=1829724&HistoricalAwards=false)
-<!-- * [Open Badges for Researcher Credentialing](https://nsf.gov/awardsearch/showAward?AWD_ID=1839868&HistoricalAwards=false) -->
+* [Open Badges for Researcher Credentialing](https://nsf.gov/awardsearch/showAward?AWD_ID=1839868&HistoricalAwards=false) 
+-->
 
 # Get in Touch
 
@@ -77,6 +79,7 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 ## Social Media, Content Moderation, and Extremism
 
+* Atreja, S., Hemphill, L., Resnick, P. (2023) [Remove, Reduce, Inform: What Actions do People Want Social Media Platforms to Take on Potentially Misleading Content?](https://dl.acm.org/doi/10.1145/3610082)  _Proceedings of the ACM on Human-Computer Interaction_ (_7_) CSCW2. doi: 10.1145/3610082
 * Schöpke-Gonzalez, A., Atreja, S., Shin, H. N., Ahmed, N., & Hemphill, L. (2022). [Why do volunteer content moderators quit? Burnout, conflict, and harmful behaviors](https://journals.sagepub.com/eprint/BBWM7VPP9JCWFWFZMIZY/full). _New Media & Society_. doi: 10.1177/14614448221138
 * Hemphill, L. (2022) [Very Fine People: What Social Media Platforms Miss About White Supremacist Speech](https://www.adl.org/language-of-white-supremacy). _The Anti-Defamation League_.
 * Balasubramanian, S.K., Bilgic, M., Culotta, A., Hemphill, L., Nikolich, A., Shapiro, M.A., (2022) [Leaders or Followers? A Temporal Analysis of Tweets from IRA Trolls](https://doi.org/10.48550/arXiv.2204.01790). _16th International AAAI Conference on Web and Social Media (ICWSM 2022)_.
@@ -99,7 +102,6 @@ Here's a [PDF of my CV](/files/hemphill_cv.pdf) and some recent publications:
 
 Some of my work that's not (yet) published. These are workshop papers, papers under review, and/or longer versions of papers for conferences that review only abstracts during submission.
 
-* Atreja, S., Hemphill, L., Resnick, P. (2022) [What is the Will of the People? Moderation Preferences for Misinformation](https://arxiv.org/abs/2202.00799) [accepted at CSCW 2023]
 * Lafia, S., Ko, J-W., Moss, E., Kim, J., Thomer, A., Hemphill, L. (2021) [Detecting Informal Data References in Academic Literature.](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/168392/Detecting_Informal_Data_Refs.pdf?sequence=1&isAllowed=y)
 * Hemphill, L., Leonard, S.H., and Hedstrom, M. (2018) [Developing a Social Media Archive at ICPSR](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/143185/Developing%20SOMAR%20at%20ICPSR.pdf?sequence=1&isAllowed=y)
 * Hemphill, L. (2018) [More Specificity, More Attention to Social Context: Reframing How We Address ''Bad Actors''](http://hdl.handle.net/2027.42/142392)
