@@ -19,7 +19,7 @@ I have a few titles at the [University of Michigan](http://www.umich.edu):
 
 # Work with Me
 
-Thank you for your interest! I am *not* recruiting students or postdocs or accepting new committee invitations right now (or for Fall 2025).
+Thank you for your interest! I am *not* recruiting students or postdocs right now (or to start in Fall 2026).
 
 # Publications
 
